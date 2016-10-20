@@ -1,15 +1,15 @@
 # StereoTracking
 
 
-These are image datasets and experimental results for the paper " " submitted to 
+These are image datasets and experimental results.
 
 
 Include:
 
 
-1,     StereoTracking/Images/StereoImages/  stereo images datasets, contains 30 image sets, left images and right images,RGB,8bit.
+1,     StereoTracking/Images/StereoImages/  stereo images datasets, contains 23 image sets, left images and right images,RGB,8bit.
 
-2,     StereoTracking/Images/depth/ depth images obtained from stereo images,30 image sets,0~255 grayscale, 8bit.
+2，    Annotations, bouding boxes.
 
 3,     StereoTracking/Calibration/   intrinsic parameters and extrinsic parameters for cameras
 
