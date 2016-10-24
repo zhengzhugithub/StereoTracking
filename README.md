@@ -1,7 +1,6 @@
 # StereoTracking
 
-#NOTE:
-Other eight sequences are available at https://pan.baidu.com/s/1pKA9mGF
+#NOTE: Other eight sequences are available at https://pan.baidu.com/s/1pKA9mGF
 
 
 These are image datasets and experimental results.
